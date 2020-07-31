@@ -8,3 +8,5 @@ I just watched your youtube videos on creating and navigating repositories on GI
 I'm learning/updating my knowledge base and I plan on placing some work on Git Hub soon to continue learning through doing via this collaborative space so your work was a great introduction after Git Hub's internal one. 
 Thank you for the edutainment, Mr. Hanselman. 
 No need to commit this XD.
+
+Thanks for the compliment!
