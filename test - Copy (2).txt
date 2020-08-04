@@ -7,6 +7,8 @@ Maggie's test!
 I just watched your youtube videos on creating and navigating repositories on GIT and merging local Git repositories with the cloud via Git Hub. Very informative videos on the patch of learning "stick shift" as you put it. 
 I'm learning/updating my knowledge base and I plan on placing some work on Git Hub soon to continue learning through doing via this collaborative space so your work was a great introduction after Git Hub's internal one. 
 Thank you for the edutainment, Mr. Hanselman. 
-No need to commit this XD.
+No need to merge this XD.
 
 Thanks for the compliment!
+
+Of course! - Drew
